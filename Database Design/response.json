@@ -1,0 +1,42 @@
+{
+    "_id": "",
+    "field_title": "Reading Books",
+    "type-field": "",
+    "category": "blog",
+    "thumbnails": [
+        {
+            "url": "https://rnebolte.sirv.com/self_care_appdata/icons/read-books-icon.png?w=60&h=60&scale.option=ignore",
+            "width": 60,
+            "height": 60
+        },
+        {
+            "url": "https://rnebolte.sirv.com/self_care_appdata/icons/read-books-icon.png?w=120&h=120&scale.option=ignore",
+            "width": 120,
+            "height": 120
+        },
+        {
+            "url": "https://rnebolte.sirv.com/self_care_appdata/icons/read-books-icon.png?w=226&h=226&scale.option=ignore",
+            "width": 226,
+            "height": 226
+        },
+        {
+            "url": "https://rnebolte.sirv.com/self_care_appdata/icons/read-books-icon.png?w=544&h=544&scale.option=ignore",
+            "width": 544,
+            "height": 544
+        }
+    ],
+    "ref_resources": [
+        {
+            "_id": "",
+            "link_to_resource": ""
+        },
+        {
+            "_id": "",
+            "link_to_resource": ""
+        },
+        {
+            "_id": "",
+            "link_to_resource": ""
+        }
+    ]
+}
