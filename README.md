@@ -5,8 +5,11 @@ A utility application that provides the user with various resources related to t
 
 ---
 
+
+
 ### Repository Contents:
 Below is the directory structure of this repository. To get info about the contents of each directory click [here](#contents-in-directory).
+* Refer directly to our Project Planning doc by clicking [here](https://github.com/Aryan360/Selfcare_Application/blob/f6e409260bdb7d6a8fbd1945f05beb8da0d0934a/Documents%20&%20PPTS/Project%20Planning%20and%20Documentations.md).
 ```
 📦Selfcare_Application
  ┣ 📂Documents & PPTS
